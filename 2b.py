@@ -5,4 +5,3 @@ c = int(input("Digite o terceiro número: "))
 media = (a + b + c)/3
 
 print(f'A média dos números é {media}')
-
