@@ -1,5 +1,5 @@
-a = int(input('Digite um numero: '))
+num = int(input('Digite um numero: '))
 
-cubo = a**3
+potencia = num**3
 
-print(f'O valor elevado a 3 é {cubo}')
+print(f'O valor elevado a 3 é {potencia}')
